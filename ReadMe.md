@@ -12,17 +12,19 @@ Fun Fact : Unexpected Questions
 - Binary Exploits (Pwns)
 - Reverse Enginnering
 ### MCSC Guide Line Video
+  
   This is guide line video for ctf challenge by MMCERT teams.
-  - [Day 1 (Pwn)](https://github.com/empiretylh/EMPIRE_CTF_NOTES/blob/master/MCSC-Challenge-Video/Day_1.Pwn.mp4)
-  - [Day 2 (Web)](https://github.com/empiretylh/EMPIRE_CTF_NOTES/blob/master/MCSC-Challenge-Video/Day_2.Web.mp4)
-  - [Day 3 (Reverse Enginnering)](https://github.com/empiretylh/EMPIRE_CTF_NOTES/blob/master/MCSC-Challenge-Video/Day_3.Reverse_Engineering.mp4)
-  - [Day 4 (Network Forensics)](https://github.com/empiretylh/EMPIRE_CTF_NOTES/blob/master/MCSC-Challenge-Video/Day_4.Network_Forensics.mp4)
-  - [Day 5 (Cryptography)](https://github.com/empiretylh/EMPIRE_CTF_NOTES/blob/master/MCSC-Challenge-Video/Day_5.Cryptography.mp4)
-  - [Day 6 (Pwn)](https://github.com/empiretylh/EMPIRE_CTF_NOTES/blob/master/MCSC-Challenge-Video/Day_6.Pwn.mp4)
-  - [Day 7 (Web)](https://github.com/empiretylh/EMPIRE_CTF_NOTES/blob/master/MCSC-Challenge-Video/Day_7.Web.mp4)
-  - [Day 8 (Network Forensics)](https://github.com/empiretylh/EMPIRE_CTF_NOTES/blob/master/MCSC-Challenge-Video/Day_8.Network_Forensics.mp4)
-  - [Day 9 (Cryptography)](https://github.com/empiretylh/EMPIRE_CTF_NOTES/blob/master/MCSC-Challenge-Video/Day_9.Cryptography.mp4)
-  - [Day 10 (Reverse Enginnering)](https://github.com/empiretylh/EMPIRE_CTF_NOTES/blob/master/MCSC-Challenge-Video/Day_10.Reverse_Engineering.mp4)
+  Join this Telegram Group First - [https://t.me/ctfguide](https://t.me/ctfguide/11)
+  - [Day 1 (Pwn)](https://t.me/ctfguide/2)
+  - [Day 2 (Web)](https://t.me/ctfguide/3)
+  - [Day 3 (Reverse Enginnering)](https://t.me/ctfguide/4)
+  - [Day 4 (Network Forensics)](https://t.me/ctfguide/5)
+  - [Day 5 (Cryptography)](https://t.me/ctfguide/6)
+  - [Day 6 (Pwn)](https://t.me/ctfguide/7)
+  - [Day 7 (Web)](https://t.me/ctfguide/8)
+  - [Day 8 (Network Forensics)](https://t.me/ctfguide/9)
+  - [Day 9 (Cryptography)](https://t.me/ctfguide/10)
+  - [Day 10 (Reverse Enginnering)](https://t.me/ctfguide/11)
 
 
 ## Tools
